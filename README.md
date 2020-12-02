@@ -1,4 +1,4 @@
-# UX-GrabCoffee-Sketch
+# UX-Desgin-GrabCoffee-Sketch
 
 Startup Pitch: https://bit.ly/3luXf7N  <br>
 Prototype(Sketch) demo link: https://bit.ly/2JBleox <br>
